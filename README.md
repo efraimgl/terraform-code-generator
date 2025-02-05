@@ -148,7 +148,3 @@ Please generate Terraform code for an S3 bucket and a Lambda function.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this README as necessary for your specific use case!
