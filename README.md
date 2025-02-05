@@ -1,10 +1,3 @@
-# terraform-code-generator
-Automating Terraform Code Generation with Google Generative AI and Python
-
-Certainly! Here's a README file you can use for your project:
-
----
-
 # Terraform Code Generator
 
 This Python script generates Terraform code using the Google Generative AI model, formats it, and saves it to a file. The Terraform code is generated based on a user-provided prompt, which describes the infrastructure to be created. The generated code includes a provider block, comments, and the necessary infrastructure resources.
